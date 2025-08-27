@@ -49,8 +49,8 @@
 	<tr> <td>S</td> <td>/s/</td> <td></td> </tr>
 	<tr> <td>T</td> <td>/t tʰ/</td> <td> tundra /tʰʊndrɑ/, flattr /flɑtr/</td> </tr>
 	<tr> <td>V</td> <td>/ʋ/</td> <td></td> </tr>
-	<tr> <td>HV</td> <td>/ʍ/</td> <td></td> </tr>
-	<tr> <td>KV</td> <td>/kʋ/</td> <td></td> </tr>
+	<tr> <td>HV</td> <td>/kʋ/</td> <td></td> </tr>
+	<tr> <td>KV</td> <td>/kv/</td> <td></td> </tr>
 	<tr> <td>X</td> <td>/ks/</td> <td></td> </tr>
 	<tr> <td>Z</td> <td>/z/</td> <td></td> </tr>
 	<tr> <td>Þ</td> <td>/θ/</td> <td></td> </tr>

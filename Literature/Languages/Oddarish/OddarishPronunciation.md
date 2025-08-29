@@ -1,4 +1,5 @@
 # Oddarish Pronunciation
+Stress is almost always put on the first syllable.
 
 ## Monothongs
 <table><tbody>

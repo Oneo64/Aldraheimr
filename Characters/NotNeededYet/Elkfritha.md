@@ -1,5 +1,4 @@
 # Elkfriða
-
 <table><tbody>
 	<tr> <th colspan=2>Elkfriða</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>

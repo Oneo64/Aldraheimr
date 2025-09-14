@@ -1,5 +1,7 @@
 Copyright © 2023 Oneo64
 
+**Earth version:** https://github.com/Oneo64/TheMirkOfAgmundr
+
 **This is the main repository for the Aldraheimr Worldbuilding Project! Everything else are either spinoffs (DnDAldpora), or old versions (Aldpor).**
 
 Aldraheimr is a mythic historical fantasy world set in the early medieval ages. It is not specifically a low or high fantasy setting because those terms don't have a strict definition, and this world just so happens to sit exactly in the middle, leaning toward low fantasy. This project started in July 2023.

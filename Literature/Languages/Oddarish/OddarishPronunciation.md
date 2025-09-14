@@ -19,7 +19,7 @@ Stress is almost always put on the first syllable.
 <table><tbody>
 	<tr> <td>Á</td> <td>/ɑuː/</td> <td></td> </tr>
 	<tr> <td>Æ</td> <td>/aiː/</td> <td></td> </tr>
-	<tr> <td>AU</td> <td>/œʏː/</td> <td></td> </tr>
+	<tr> <td>AU</td> <td>/œyː/</td> <td></td> </tr>
 	<tr> <td>ÁI</td> <td>/ɑiː/</td> <td></td> </tr>
 	<tr> <td>É</td> <td>/jɛː/</td> <td></td> </tr>
 	<tr> <td>EI, EY</td> <td>/ɛiː/</td> <td></td> </tr>

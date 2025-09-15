@@ -34,7 +34,8 @@ Stress is almost always put on the first syllable.
 	<tr> <td>F</td> <td>/f/</td> <td></td> </tr>
 	<tr> <td>G, GG</td> <td>/g/</td> <td>geta /'gɛtɑ/, beigg /bɛiːg/</td> </tr>
 	<tr> <td>GJ, GGJ</td> <td>/c/</td> <td>gjóðr /couːðr/, byggja /'bʏcɑ/</td> </tr>
-	<tr> <td>Á, Æ, É, I, Í, Ö, Ú, Y, Ý, or AU + G</td> <td>/ɣ/</td> <td>draugr /'drœʏːɣr/, dega /'dɛːɣɑ/</td> </tr>
+	<tr> <td>Æ, É, I, Í, Ö, U, Ú, Y, Ý, AU, EI, EY + G</td> <td rowspan=2>/ɣ/</td> <td>draugr /'drœʏːɣr/, dega /'dɛːɣɑ/</td> </tr>
+	<tr> <td>G + É, I, Í, Ö, U, Ú, Y, Ú, AU, J</td> <td>geta /'gɛtɑ/, negull /'nɛɣʊl/</td> </tr>
 	<tr> <td>H</td> <td>/h/</td> <td></td> </tr>
 	<tr> <td>J</td> <td>/j/</td> <td></td> </tr>
 	<tr> <td>K</td> <td>/k kʰ/</td> <td>kelfa /kʰɛlfɑ/, fnakr /fnɑkr/</td> </tr>
@@ -48,7 +49,8 @@ Stress is almost always put on the first syllable.
 	<tr> <td>R</td> <td>/r/</td> <td></td> </tr>
 	<tr> <td>HR</td> <td>/r̥/</td> <td>hrafn /r̥ɑfn/</td> </tr>
 	<tr> <td>S</td> <td>/s/</td> <td></td> </tr>
-	<tr> <td>T</td> <td>/t tʰ/</td> <td> tundra /tʰʊndrɑ/, flattr /flɑtr/</td> </tr>
+	<tr> <td>T</td> <td>/t tʰ/</td> <td>tundra /tʰʊndrɑ/, flattr /flɑtr/</td> </tr>
+	<tr> <td>-KT, -PT</td> <td>/kt̪ pt̪/</td> <td>bakt /bɑkt̪/, hlapt /l̥ɑpt̪/</td> </tr>
 	<tr> <td>V</td> <td>/ʋ/</td> <td></td> </tr>
 	<tr> <td>HV</td> <td>/kʋ/</td> <td></td> </tr>
 	<tr> <td>KV</td> <td>/kf/</td> <td></td> </tr>

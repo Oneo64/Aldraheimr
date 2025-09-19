@@ -1,7 +1,7 @@
 # Oddarish Pronunciation
 Stress is almost always put on the first syllable.
 
-## Monothongs
+## Monophthongs
 <table><tbody>
 	<tr> <td>A</td> <td>/ɑ/</td> </tr>
 	<tr> <td>E</td> <td>/ɛ/</td> </tr>

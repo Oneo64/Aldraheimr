@@ -9,7 +9,7 @@
 	<tr> <td>Age</td> <td>22</td> </tr>
 	<tr> <td>Birthday</td> <td>March 14, AD 951</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Oddarsveldi</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Njall (father)<br>Þone (mother)<br>Dageski (grandfather)</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Njáll (father)<br>Þone (mother)<br>Dageski (grandfather)</td> </tr>
 	<tr> <td>Lover</td> <td>Ljörn</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
@@ -100,5 +100,5 @@ Rúna knows how to draw Veldismagn.
  - **Rúna turns and leaves the seller's stand.**
 
 ## Notes
-[^1]: The first time Njall decided to sell one of Rúna's carvings, the buyer returned it and complained that it wasn't worth anything because it wasn't symmetrical.
+[^1]: The first time Njáll decided to sell one of Rúna's carvings, the buyer returned it and complained that it wasn't worth anything because it wasn't symmetrical.
 [^2]: Veldismagn requires to be drawn with blood, which is why it unnerved Rúna.

@@ -1,6 +1,8 @@
 Copyright © 2023 Oneo64
 
-**Earth version:** https://github.com/Oneo64/TheMirkOfAgmundr
+**WARNING: THIS PROJECT IS DISCONTINUED! THERE WILL BE NO MORE UPDATES.**
+
+**(NEW) Earth version:** https://github.com/Oneo64/TheMirkOfAgmundr
 
 **AI shit:** https://github.com/Oneo64/MiscCharacters
 

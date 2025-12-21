@@ -1,9 +1,4 @@
-Copyright © 2023 Oneo64
-
-**WARNING: THIS PROJECT IS DISCONTINUED! THERE WILL BE NO MORE UPDATES.**
-
-**(NEW) Earth version:** https://github.com/Oneo64/TheMirkOfAgmundr
-
+# Overview
 **This is the main repository for the Aldraheimr Worldbuilding Project! Everything else are either spinoffs (DnDAldpora), or old versions (Aldpor).**
 
 Aldraheimr is a mythic historical fantasy world set in the early medieval ages built and developed by Oneo64. It is not specifically a low or high fantasy setting because those terms don't have a strict definition, and this world just so happens to sit exactly in the middle, leaning toward low fantasy. This project started in July 2023.
@@ -13,4 +8,10 @@ The current year is AD 973, and the time of the year is currently Early February
 
 Magic in this world is soft, and there are six types of it. There are four folk magics, which are all shamanic or ritualistic. These magics allow casters to see omens, get visions, curse people, shapeshift, and perform other similar powers. Except for galdrastafir, these magics aren't very flashy. Sometimes, unless you are aware of these magics, you won't even notice they're being cast. There is also sorcery, the only war magic that exists, but it doesn't have any elemental spells. Sorcery is learned, but sorcery is only taught in southern regions. These magics are intentionally designed not to overpower warriors and fortifications. 
 
-This world and its contents are licensed under CC BY-NC 4.0. License link can be found here: https://creativecommons.org/licenses/by-nc/4.0/
+---
+
+**WARNING: THIS PROJECT IS DISCONTINUED! THERE WILL BE NO MORE UPDATES.**
+
+**(NEW) Earth version:** https://github.com/Oneo64/TheMirkOfAgmundr
+
+Copyright © 2023 Oneo64. This world and its contents are licensed under CC BY-NC 4.0. License link can be found here: https://creativecommons.org/licenses/by-nc/4.0/

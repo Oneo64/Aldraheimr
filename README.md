@@ -12,7 +12,7 @@ Magic in this world is soft, and there are six types of it. There are four folk 
 
 **WARNING: THIS PROJECT IS DISCONTINUED! THERE WILL BE NO MORE UPDATES.**
 
-**(NEW) Earth version:** https://github.com/Oneo64/TheMirkOfAgmundr
+**(NEW!) Earth version:** https://github.com/Oneo64/TheMirkOfAgmundr
 
 **Learn Oddarish here:** https://oneo64.github.com/Oddarish-Dictionary
 

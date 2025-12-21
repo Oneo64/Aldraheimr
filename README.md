@@ -14,4 +14,6 @@ Magic in this world is soft, and there are six types of it. There are four folk 
 
 **(NEW) Earth version:** https://github.com/Oneo64/TheMirkOfAgmundr
 
+**Learn Oddarish here:** https://oneo64.github.com/Oddarish-Dictionary
+
 Copyright © 2023 Oneo64. This world and its contents are licensed under CC BY-NC 4.0. License link can be found here: https://creativecommons.org/licenses/by-nc/4.0/

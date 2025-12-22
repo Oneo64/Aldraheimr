@@ -1,15 +1,17 @@
 # Oddarish Pronunciation
 Stress is almost always put on the first syllable.
 
+**OUTDATED!!! Please refer to the pronunciation section in Oddarish.xlsx for up-to-date info.**
+
 ## Monophthongs
 <table><tbody>
-	<tr> <td>A</td> <td>/ɑ/</td> </tr>
+	<tr> <td>A</td> <td>/a/</td> </tr>
 	<tr> <td>E</td> <td>/ɛ/</td> </tr>
 	<tr> <td>I</td> <td>/ɪ/</td> </tr>
 	<tr> <td>Í</td> <td>/iː/</td> </tr>
 	<tr> <td>O</td> <td>/o/</td> </tr>
 	<tr> <td>Ö</td> <td>/œː/</td> </tr>
-	<tr> <td>U</td> <td>/ʊ/</td> </tr>
+	<tr> <td>U</td> <td>/ʉ/</td> </tr>
 	<tr> <td>Ú</td> <td>/uː/</td> </tr>
 	<tr> <td>Y</td> <td>/ʏ/</td> </tr>
 	<tr> <td>Ý</td> <td>/yː/</td> </tr>
@@ -22,7 +24,8 @@ Stress is almost always put on the first syllable.
 	<tr> <td>AU</td> <td>/œyː/</td> <td></td> </tr>
 	<tr> <td>ÁI</td> <td>/ɑiː/</td> <td></td> </tr>
 	<tr> <td>É</td> <td>/jɛː/</td> <td></td> </tr>
-	<tr> <td>EI, EY</td> <td>/ɛiː/</td> <td></td> </tr>
+	<tr> <td>EI</td> <td>/eiː/</td> <td></td> </tr>
+	<tr> <td>EY</td> <td>/eyː/</td> <td></td> </tr>
 	<tr> <td>Ó</td> <td>/ouː/</td> <td></td> </tr>
 </tbody></table>
 
@@ -35,7 +38,6 @@ Stress is almost always put on the first syllable.
 	<tr> <td>G, GG</td> <td>/g/</td> <td>geta /'gɛtɑ/, beigg /bɛiːg/</td> </tr>
 	<tr> <td>GJ, GGJ</td> <td>/c/</td> <td>gjóðr /couːðr/, byggja /'bʏcɑ/</td> </tr>
 	<tr> <td>Æ, É, I, Í, Ö, U, Ú, Y, Ý, AU, EI, EY + G</td> <td rowspan=2>/ɣ/</td> <td>draugr /'drœʏːɣr/, dega /'dɛːɣɑ/</td> </tr>
-	<tr> <td>G + É, I, Í, Ö, U, Ú, Y, Ú, AU, J</td> <td>geta /'gɛtɑ/, negull /'nɛɣʊl/</td> </tr>
 	<tr> <td>H</td> <td>/h/</td> <td></td> </tr>
 	<tr> <td>J</td> <td>/j/</td> <td></td> </tr>
 	<tr> <td>K</td> <td>/k kʰ/</td> <td>kelfa /kʰɛlfɑ/, fnakr /fnɑkr/</td> </tr>

@@ -1,0 +1,33 @@
+[[BOARD GAMES]]
+
+Rægatafl:
+	Origin:   Oddarsveldi
+	Factions: Factions are usually Trœkkar (Trolls) colored with brown, and Alfar (Elves) colored with green.
+
+	Workings:
+		Rægatafl is basically Xiangqi, but the pieces are replaced with:
+			- 砲, 炮 is replaced with Northmannish rune G  (gláttokr)
+			- 兵, 卒 is replaced with Northmannish rune S  (svérkr)
+			- 車, 俥 is replaced with Northmannish rune F  (fekíg)
+			- 馬, 傌 is replaced with Northmannish rune H  (hreispr)
+			- 士, 仕 is replaced with Northmannish rune L  (lókmandr)
+			- 象, 相 is replaced with Northmannish rune B  (byr)
+			- 將, 帥 is replaced with Northmannish rune K (konungr)
+
+
+
+====================================================================================================
+
+
+
+[[SPORTS]]
+
+Academy of Aldorim's training sport:
+	Workings:
+		Once every week, the academy hosts a sport where students are assigned to two teams. Their goal is to 'eliminate' the opposing members, but they are restricted to using harmless spells. Being hit with a spell means you're out, and must leave the game field. The team to win each gets 3 copper pieces.
+
+		Team members are free to form any sort of hierarchy, and they are also able to surrender.
+
+		Rules:
+			- You may only use Illusion of Bolt.
+			- If both teams still have active players after one hour, the game stops and the team with the more active players win.

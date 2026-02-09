@@ -1,0 +1,44 @@
+All names below, unless specified, are the Northmannish name for it.
+
+Planes/Realms:
+	Myrkjorðr      = Material realm
+
+	Gjóðheimr     = Good afterlife (LG, paradise realm to good people)
+	Hel           = Bad afterlife (CG, punishment realm to evil people)
+
+	Veldalfheimr  = Realm of Fey and Pure Nature (N, infinite dark lush green forest)
+	Sotjorðr     = Realm of Earth and Stone
+
+Other dimensions:
+	Andheimr  = Astral plane
+
+Deities:
+	Talmundúr:
+		Domain:      God of Nature, Storms, and Luck
+		Symbol:      Northmannish 'T' rune, upside down
+		Other names: Talûsa (Aodesvu), Terevanus (Centruma), Tsakasten (Mornesvid)
+		Commonly worshipped by: Oddringar, Herthlanders, Rotherlanders, Saxians
+
+	Ljúnandr:
+		Domain:      God of Life, Death, and Nature
+		Symbol:      4 pointed star
+		Other names: Lûnania (Aodesvu), Lunara (Centruma), Lorazin (Mornesvid)
+		Commonly worshipped by: Central Men
+
+	Jallfaran, sometimes refered to Auðandr:
+		Domain:      God of Creation and Destruction
+		Symbol:      An eye
+		Other names: Yulvis (Aodesvu), Agarius (Centruma), Edorfil (Mornesvid)
+		Commonly worshipped by: Taribians
+
+	Rynneirr:
+		Domain:      God of Magic and the Wondrous
+		Symbol:      A circle surrounded by 8 smaller circles
+		Other names: Pöldànis (Aodesvu), Parletha (Centruma), Plakisael (Mornesvid)
+		Commonly worshipped by: Centaurs
+
+	Hærrulfyr:
+		Domain:      God of Emotions
+		Symbol:      A drop of water
+		Other names: Himarir (Aodesvu), Hiranestia (Centruma), Hegetsen (Mornesvid)
+		Commonly worshipped by: Centaurs

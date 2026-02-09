@@ -1,0 +1,384 @@
+NOTE: If the creature doesn't specify where they dwell, it is safe to assume they can be found in all parts of the world.
+NOTE: This file is depricated; see the folder "Creatures" for an updated list!
+
+Origins:
+	Germanic Mythologies (Nordic, Celtic): Alfr, Draugr, Troll
+	New Zealand/Maori: Ponaturi
+	Native American Mythologies: Raven Mocker (Cherokee)
+	Persian and Zorostrian Mythology: Daeva, Manticore
+	Southeastern Asian Mythologies (Thai, Cambondian, etc): Krasue
+
+
+
+====================================================================================================
+OTHER HUMAN-LIKE SPECIES
+----------------------------------------------------------------------------------------------------
+Basically the same way fantasy races work.
+====================================================================================================
+
+Troll:
+	A troll usually lives in small tribes, and they don't like metal.
+
+	Appearance:
+		A troll is a creature that is slightly shorter than a man, but much heavier. They have dark hair, black beady eyes that glow in the dark like a cat, grey stone-like skin, large flat noses, and wears mostly browns and greys.
+
+	Behaviour:
+		Trolls act eccentric and whimsical like a garden gnome or an old wizard. They don't like the company of too many men, or even too many trolls. They live in small tribes, where their leaders are always the wisest ones in their community.
+
+	Abilities:
+		A troll is much stronger than a man but not as strong as draugr. They are a lot dumber than humans, but very rarely one is born with equal intelligence. Upon stepping into sunlight, they will slowly turn into stone, which is why they dwell in dark forests. They can see in the dark.
+
+
+
+====================================================================================================
+BEASTS
+----------------------------------------------------------------------------------------------------
+Beasts are just animals, but maybe some are magical.
+====================================================================================================
+
+Glimmering Moth:
+	Glimmering moths live in the Mountains of Bark.
+
+	Appearance:
+		A glimmering moth is a moth approximately 5 times larger than a brown house moth. It has a brown color, with small blue streaks.
+
+	Abilities:
+		Glimmering Moths can fly at a speed of 10 meters a second. They are herbivorous, and they eat moonshrooms.
+
+
+
+Great Leafbug:
+	Great leafbugs can be found in the Golden Forest and the Centrumic forests.
+
+	Appearance:
+		A greatleaf bug looks like a green stickbug, instead it has 6 legs on each side. It is about 1.5 meters long, and live up to 10 years.
+
+	Abilities:
+		The leafbug usually stays in forested areas. It is green, so it is hard to see. However, because it is that big, it has trouble climbing surfaces even though it retains it's wall climbing ability.
+
+		They are herbivorous, and they eat ekraldys toadstools. Their bodily fluids act as a brine, and will ferment the ekraldys toadstool as it eats it.
+
+
+
+Manticore (large beast):
+	A manticore lives in jungles or lives with a daeva tribe. These can usually be found in the south, especially near Taribia and Neshozia.
+
+	Appearance:
+		A manticore appears to have the head of a man, the body of a lion, and the tail of a scorpion. It's tail has a stinger similar to a porcupine quill. It's eyes are vibrant blue, it's hair is the color of blood, and they have three rows of sharp teeth. Their main diet is human meat.
+
+	Abilities:
+		A manticore usually swallows a person whole and digests the body in their stomach. They can fire the stinger on their tail, which hurts like a metal arrow and causes numbness to spread over the bodies of anyone who gets shot. The tail's stinger regrows in about a day. They cannot be burnt by ordinary fire.
+
+
+
+====================================================================================================
+DEMONS | EVIL SPIRITS
+----------------------------------------------------------------------------------------------------
+There can only be two explainations of the origins of these monsters: either they are souls who escaped Hel to Myrkjörðr, or unknown.
+====================================================================================================
+
+Daeva (large fiend):
+	A daeva is a demon, found mostly in hot regions. They are said to be manifestations of pure evil. Daevas usually live in southern regions, especially near Taribia and Neshozia.
+
+	Appearance:
+		A daeva is a towering human-like demon. They have mostly blue skin, but some have red skin. They have tusks like a boar, and have horns like a goat or a sheep. Their eyes appear to be normal, exept the whites of their eyes are yellow. They have flat faces.
+
+		Daevas usually wear just a skirt and nothing else. Daevas are mostly active during the night.
+
+	Abilities:
+		Daevas are stronger and more durable than normal men. They can consume the corpse of a human, healing itself in the process. Some of them can use magic and give a sleeping enemy they can see a nightmare, in addition to having sorcerous magic. If these sorcerous daevas are in a group, they are usually the leader.
+
+		Daevas are weak in daylight and cannot see or hear as good. Their strength is at peak only at night, especially when the moon is full. They are also able to see in the dark.
+
+		Daevas speak Abyssal, and they mostly live in small groups, which can go from a few to twenty members.
+
+
+
+Raven Mocker (medium fiend):
+	Raven mockers are at the same time evil spirits and witches.
+
+	Description:
+		Raven mockers are described as human-like figures in black clothing. Their faces are said to appear withered and aged.
+
+	Abilities:
+		A raven mocker usually preys on sick humans. They usually come out at night, and if their prey is left alone or unguarded, they will approach them and eat their heart to increase their lifespan.
+
+		Raven mockers also have black wings attached from their arms to their sides like a raven, and can use them to fly in the air. If a raven mocker dives, it lets out an uncanny screech that resembles a raven. It is said that if one hears this screech, it's an omen of death.
+
+
+
+====================================================================================================
+DRAGONS
+----------------------------------------------------------------------------------------------------
+Dragons are rare two-legged two-winged creatures with a body length of over 20 meters, and spew fire or whatever type of dragon they are. These dragons are rare, and they prefer to live in forests, mountains, or near the ocean. They cannot speak, unlike dragons from other fantasy. There are only about 500 dragons in the world.
+====================================================================================================
+
+Frost Dragon:
+	Frost dragons are a type of dragon that lives in the most northern or most southern regions of the world. They mostly eat goats or yaks, and they prefer to be alone or with their family.
+
+	Description:
+		Frost dragons has thicker scales that are pale blue, and grows white fur around the neck and belly at an adult. This makes them resistant and perhaps even immune to cold, however the insides of their mouth and head cannot be frozen despite having no fur. Their necks are longer than fire dragons, being around 3 meters in length. Their eyes are deep blue.
+
+		They take 40 years to mature, and live up to 300 years.
+
+		Their eggs look like opal, except that the only colors are white, blue and black, and they are about 0.6 meters high. Their scale color is white, and their eyes are blue and black. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 14 meters long from nose to rear, and has a tail 13 meters long, being about 27 meters in total. Their wings spread up to 16 meters in length, and are about 8 meters in width.
+
+	Abilities:
+		At an adult, they can breathe frost up for a couple of seconds at a time which reaches 35 meters, and their frost breath instantly freezes any water and anyone it touches. They can use their claws to climb.
+
+		When a frost dragon matures, their scales are strong enough to repel arrows, but not completely deflect them. These dragons resist poison.
+
+		They are not immune to cold, it's only that they greatly resist it. The only area that is immune to cold are their heads.
+
+
+
+Fire Dragon:
+	Fire dragons are a type of dragon that mostly lives in the hotter regions of the world, such as the Taribian Desert. They mostly eat goats or cattle, and they are quite territorial.
+
+	Description:
+		Fire dragons are mostly have a slim sort of body, with their proportions longer than other dragons. Their necks are about 2 meters, shorter than frost dragons.
+
+		They take 30 years to mature, and live up to 250 years.
+
+		Their eggs are gold-bronze colored, and is about 0.5 meters high. Their scales look like stone, and their eyes are dark red and has a golden color in place of the usual white part of the eye. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 18 meters long from nose to rear, and has a tail 14 meters long, being about 31 meters in total. Their wings spread up to 18 meters in length, and are about 9 meters in width.
+
+	Abilities:
+		At an adult, they can breathe continuous fire up to 4 or 5 seconds at a time that reaches 30 meters. Their claws can burn like fire when they use it as a weapon and ignite things, and they can also be used to climb.
+
+		When a fire dragon matures, their scales are just strong enough to repel arrows, but not completely deflect them. These dragons resist poison, and they are immune to burning.
+
+
+
+====================================================================================================
+ELEMENTALS
+----------------------------------------------------------------------------------------------------
+Elementals are natural elemental manifestations of Talmundur, or spawn inside of elemental planes. All elementals have a heart, which is called a heart. This heart is the thing that gathered the materials together to form the giant. To destroy an elemental, either it's head must be destroyed, or it's heart must be removed.
+====================================================================================================
+
+Earth Giant:
+	Earth giants are natural manifestations inside of Sotjorðr.
+
+	Description:
+		Earth giants looks like a hulking humanoid completely made of chunks of earth. Earth giants don't have a face, but they can see normally. Earth giants may have grass growing on the top side of their bodies. Some may even adorn themselves with flowers and vines.
+
+		An earth elemental typically stands at a height of two meters.
+
+	Abilities:
+		Earth giants do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
+
+		Earth giants are able to speak Wòrdimunag (Primordial), despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other giants. Some earth giants may even form groups, and have a name for themselves.
+
+		Because of the fragility of earth, some earth giants who find themselves in Myrkjörðr may wrap themselves in cloth, in attempt to secure and hold their body together.
+
+
+
+Fire Spirit:
+	Fire spirits are southern natural manifestations of Talmundur. Fire spirits usually don't care what happens, some even attacking ones who oppose Talmundur. These spirits are rare, usually formed by a heart of sulfur and stone being pulled together by unknown forces. If they were created by magic, then they do not know about Talmundur. Fire spirits generally try to avoid forests or any of the sort, resorting to rocky mountains and deserts.
+
+	Description:
+		Fire spirits appear as a floating humanoid torso completely made of fire. Their faces only consist of a pair of eyes, which look like darker spots.
+
+	Abilities:
+		Fire spirits are able to fly, moving up to 8 meters a second at maximum, close to the running speed of a human. They are able to speak Wòrdimunag (Primordial), despite not having a mouth.
+
+		Because of their fiery body, fire spirits are able to squeeze into small spaces such as under the door, or go through window frames and cage bars. By touching flammable surfaces, they would ignite the surface willingly or unwillingly.
+
+		By striking the heart of the fire spirit, the fire spirit is damaged much greater than simply attacking it's fiery body. Extinguishing the fire of the spirit means that the fire spirit will die.
+
+
+
+Ice Spirit:
+	Ice spirits are northern natural manifestations of Talmundur. Ice spirits are mostly evil. These spirits are rare, usually formed by a heart of ice and wood being pulled together.
+
+	Description:
+		Ice spirits looks like a medium humanoid completely made of chunks of ice, each limb is a piece of ice. Ice spirits don't have a face, but they can see normally.
+
+	Abilities:
+		Ice spirits do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
+
+		Ice spirits are able to speak Wòrdimunag (Primordial), despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other spirits. Some ice spirits may even form groups, and have a name for themselves.
+
+		Ice spirits usually arm themselves with spears, war hammers, and knives made of stone or obsidian.
+
+		If an ice spirit loses it's head, it loses the ability to see. If an ice spirit loses both it's arms or legs, it dies.
+
+
+
+Stone Giant:
+	Stone giants are natural manifestations inside of Sotjorðr.
+
+	Description:
+		Stone giants looks like a hulking humanoid completely made of chunks of stone. Stone giants don't have a face, but they can see normally. Some stone giants may have moss or lichen growing on their bodies.
+
+		A stone giant typically stands at a height of almost four meters.
+
+	Abilities:
+		Stone giants cannot speak, but they can understand Wòrdimunag (Primordial). They don't have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
+
+
+
+====================================================================================================
+FEY | FAERIES
+----------------------------------------------------------------------------------------------------
+Fey are natural inhabitants of Veldalfheimr, realm of pure nature.
+====================================================================================================
+
+Alfr/Elves (medium fey):
+	WIP, but will resemble alfar
+
+
+
+Centaur (medium fey):
+	A centaur is a half man half horse found in Veldalfheimr and Myrkjörðr. They live in groups, small kingdoms, or the such. The most well known centaur kingdoms in Myrkjörðr are Heirfgria and Vatakond.
+
+	Description:
+		A centaur is a hybrid, with the upper body of a human and the lower body of a horse. The horse's fur usually extends all the way up to the centaur's neck, and to their wrists.
+		
+		Centaurs matures by 20, and lives up to 150 years old.
+
+	Abilities:
+		Centaurs that live in or came from Veldalfheimr speak Druidic and Sylvan. If they came from Myrkjörðr, they might speak Druidic, Sylvan, Sylvendric, any elvish variant, or a combination of the four.
+
+
+
+Dryad (medium fey):
+	Dryads are native to Veldalfheimr. They are bound to their own tree. Then that tree is killed, the dryad becomes chaotic neutral, and will attempt to kill the person who harmed their tree.
+
+	Description:
+		A dryad appears to be a beautiful woman that is completely green. She seems to be naked, however there is thick green mist to cover her private appendages. She radiates green mist from every part of her body.
+
+		Dryads mature by 20, and live up to 300 years old.
+
+	Abilities:
+		A dryad is able to unlimitedly carve all types of magical staves and perform all druidry. She is also able to control dreams, possess creatures, and willingly travel from Veldalfheimr to Myrkjörðr and vice versa. She will always know the location of her tree, unless it is destroyed.
+
+		Dryads are able to speak Druidic and Sylvan.
+
+
+
+Faerie Hare (small fey):
+	A faerie hare is a hare that lives in Veldalfheimr.
+
+	Description:
+		A faerie hare looks like a normal hare. It's fur color is normally a mix of brown and tan. When it moves, it's paws emit a faint green mist. It's eye colors are always green, and slightly glows in the dark.
+
+		Usually if there is any fey activity in Myrkjörðr, it attracts faerie hares to go and take a look.
+
+		Faerie hares are active at night, and can only be seen by other fey. When a faerie hare runs over someone's farmland, they can see the hare in their dream.
+
+	Abilities:
+		When a faerie hare runs over farmland, the farmland becomes fertilized. Faerie hares naturally repel zombies and skeletons. If these undead go near the hare, they will try and move away from it.
+
+
+
+Gvarth (huge fey):
+	Gvarths are sentient trees created from normal living trees by evil fey as soldiers, aimed to destroy all intelligent civilization in order to "restore" nature.
+
+	Description:
+		A gvarth is a towering tree with the size of an oak, and are indistinguishable from normal trees. Some gvarths are adorned with dark green banners or carved with sylvan and druidic runes.
+
+	Abilities:
+		Gvarths move by having it's roots move in the dirt like the oars of a boat. Their branches are like boneless arms or whips, and can lash out with the force of a mace. They rely on sensing their targets instead of seeing them, which means they can "see" in the dark.
+
+		These things can't move on hard surfaces like stone, but they can leap into the air with five times the force of a man. They're aware that if they aren't careful when they jump, they might harm themselves, but other than that, they aren't wise or smart, nor do they have free will. They can't speak, but understand Druidic and Sylvan.
+
+
+
+Ponaturi (medium fey):
+	Ponaturi are small, goblin-like creatures that dwell in warm waters, especially the beaches in the south.
+
+	Description:
+		Ponaturi are small, goblin-like humanoid creatures. They usually wear scraps weathered by salt water, but the long hairs that cover their bodies make up for the torn clothing.
+
+	Abilities:
+		Ponaturi usually comes out of the ocean when the weather is foggy, rainy, stormy, or any weather where the sun isn't shining, since if they touch sunlight, they will suffer burns. They usually capture humans and enslave them. At night, they come out and sleep in huts they built on the beach.
+
+		In ponaturi tribes, some of them will practice black magic, especially Gu magic.
+
+
+
+====================================================================================================
+UNDEAD
+----------------------------------------------------------------------------------------------------
+Undead are either reanimated corpses by magic, or resurrected corpses due to natural phenomenon. Almost all undead are immune to any poisons or venom, and mind control and mind reading doesn't work on them.
+====================================================================================================
+
+Boneman (medium undead):
+	Bonemen are corpses reanimated by black magic.
+
+	Description:
+		A boneman is often the skeleton of a humanoid, usually those of a human, reanimated by black magic.
+
+	Abilities:
+		Bonemen are dim-witted, yet know just enough to use a weapon. They only understand the languages of it's creator, but cannot speak.
+
+
+
+Draugr (medium undead):
+	A draugr is a revenant who comes alive. Many draugar come to be because they were cursed, but some may rise because they weren't buried properly. One way to prevent their rise is to ensure they are laying down, and their hands and feet are bound together. Most draugar come to be in the northern lands of Myrkjörðr.
+
+	Description:
+		Some draugar might look like they're covered in ash, with grey skin, completely white eyes, and sparse grey hair. Some might be bloated at their stomach and completely black as if they were burnt. But whatever appearance they may have, they will always seem like a walking corpse.
+
+		When a draugr is in their burial place, they will remain "dead" undisturbed. But if one disturbs their tomb, whether it is to touch any of their belongings or the draugr itself, the draugr will rise and protect its belongings. If a draugr comes to be, but it wasn't buried in a tomb, it will simply rise and haunt the living.
+
+		Even though draugar can speak, they don't use it to talk to others. Instead, they mostly use their voice to chant incantations.
+
+	Abilities:
+		Despite being undead, draugar can move as if they were alive, albeit with a little stagger. They are twice as strong compared to men, can see in the dark, and can't be poisoned or exorcised. To kill a draugr, their head must be decapitated or removed.
+
+		Some draugar, like Joki's description of them, had the ability to vanish into the air and appear elsewhere. Others could turn their heads a full circle around, or enter the dreams of other people. Some were said to practice Seidr and curse anyone who tried to enter their domain.
+
+		Draugar can still speak, but their voice sounds raspy and deep. Since most draugr are more than a hundred years old, they might speak an ancient language no one understands.
+
+
+
+Rotten Gvarth (huge undead):
+	Rotten gvarths are undead trees created from dying or dead trees by evil fey as soldiers, aimed to destroy all intelligent civilization in order to "restore" nature.
+
+	Description:
+		A gvarth is a towering tree with the size of an oak, but have no leaves. It's wood and bark looks like it's rotten, but it's decay was stopped by fey magic. Some rotten gvarths are adorned with dark green banners or carved with sylvan and druidic runes.
+
+	Abilities:
+		Rotten gvarths move by having it's roots move in the dirt like the oars of a boat. Their branches are like boneless arms or whips, and can lash out with the force of a mace. They rely on sensing their targets instead of seeing them, which means they can "see" in the dark.
+
+		These things can't move on hard surfaces like stone, but they can leap into the air with five times the force of a man. They're aware that if they aren't careful when they jump, they might harm themselves, but other than that, they aren't wise or smart, nor do they have free will. They can't speak, but understand Druidic and Sylvan.
+
+		Rotten gvarths, unlike ordinary gvarths, are especially vulnerable to fire and lightning.
+
+
+
+Krasue (medium undead):
+	A krasue is an undead creature that dwells in forests and jungles, especially the southern ones. A person may become a krasue if they sinned and from that were cursed to become one.
+
+	Appearance:
+		Krasues are usually the head of a young woman, with her internal organs hanging from the bottom of her neck. Sometimes they may have a faint glow around them like a will-o-wisp.
+
+	Abilities:
+		Krasues move by floating in the air. They feed on blood, particularly on the blood of humans. They usually come out at night, but no one knows where they hide once day comes.
+
+
+
+Wraith (medium undead):
+	Wraiths are maleviolent spirits that roam the world, killing living creatures. One becomes wraith if they were cursed to become one, then killed.
+
+	Description:
+		A wraith appears to be a legless, dark brown revenant. It's body is zombie-like and rotten, and it is clad in any armor or clothing it died with. If a wraith is armored, they will most likely be wielding a weapon.
+
+	Abilities:
+		Wraiths move by flying in the air. Wraiths are corporeal and can use things around them, but they prefer to use the equipment they had before their previous death. The wraith's body (not the armor or weapons) is extremely fragile, and will die instantly if they're sliced through.
+
+		Wraiths cannot be burnt nor frozen, but they are weak to sunlight and will slowly disintegrate upon touching it. But if their body returns to any shade, they will regain their limbs that were lost in the sunlight. When a wraith dies, it turns to ash and falls down, leaving behind its weapons and armor. However if a wraith is an old one, their armor is likely to break from the impact of it's fall.
+
+		Wraiths can see in pitch black. They can't speak or use any magic.
+
+
+
+Zombie (medium undead):
+	Zombies are corpses reanimated by black magic.
+
+	Description:
+		Zombies are corpses of humanoids, often those of men or elves, reanimated by black magic. Their appearance can range from seemingly alive to rotting, depending on how long they've been dead. A seemingly alive one means they were recently killed. A rotting one means they were killed within a few week. A bloated one means they were killed within a couple of months. If a zombie is really old, it's flesh rots off and it's a skeleton instead.
+
+	Abilities:
+		Zombies are dim-witted, yet know just enough to use a weapon. They only understand the languages of it's creator, but cannot speak.

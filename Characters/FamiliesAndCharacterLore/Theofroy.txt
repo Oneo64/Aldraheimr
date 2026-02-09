@@ -1,0 +1,13 @@
+Heir:   Théofroy
+Wealth: Wealthy
+
+Land:
+    A small half-stone cottage in Pendlas Mus
+
+---------------------------------------------------------------
+
+
+
+Théofroy [M, Mid 40s]-+  +-Aclehard [M, 20 years old]
+                      |>>|
+Mérande [F, Mid 40s]--+  +-Ysole [F, 19 years old]

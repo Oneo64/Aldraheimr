@@ -4,7 +4,7 @@ Male
 Age: 30
 Alignment: Lawful Neutral
 
-Homeland:  Barastaðr, Oddarsveldi
+Homeland:  Bararíngu, Fjalland
 Race:      Human
 
 
@@ -14,7 +14,7 @@ Loroðil has wavy shoulder-length dark blond hair, dark blue eyes that have an i
 
 Loroðil wears a black hooded cloak with simple brown embroidery around the hems and a simple metal clasp to conceal himself. Underneath his cloak, he wears a long blue tunic with simple brown embroidery around the hems and a split down the middle, brown pants, a buckled ring belt, and a pair of boots. For his jewelry, he has a magic silver circlet, a silver Talmundúr amulet, and a high-quality amber necklace. He carries a sheathed longseax and a pouch on his belt.
 
-Loroðil lives in an isolated longhouse two kilometers north of Barastaðr. Every day, he can be seen walking to the main village and wandering around the market area, then back to his longhouse.
+Loroðil lives in an isolated longhouse two kilometers north of Bararíngu. Every day, he can be seen walking to the main village and wandering around the market area, then back to his longhouse.
 
 Loroðil's sword has been applied with Iron Grease of Magic (fire), which causes his sword to burn things when struck.
 
@@ -23,7 +23,7 @@ Loroðil's sword has been applied with Iron Grease of Magic (fire), which causes
 [[PERSONALITY]]
 Loroðil is loyal, observant, and analytical, being able to spot any hint of deception and make out the true intentions of people faster than anyone. He also feels some responsibility towards his town village, but when he is forced to do something he doesn't like, he would find a workaround or find some excuse to not do that. He mostly keeps to himself and doesn't want to directly involve himself in the affairs of other people. When he travels, he cloaks himself for the first week or two to assess his new environment first.
 
-Sometimes Loroðil can act cold-hearted or even villainous, due to past experiences. But he actually feels quite lonely, as most people view him as being unfriendly.
+Sometimes Loroðil can act cold-hearted or even villainous, due to past experiences. But he actually feels quite lonely, as most people view him as being unfriendly. Right now, he yearns to visit Yelestina again.
 
 Loroðil has this small obsession with purchasing small figurines and trinkets, as he likes to try and infuse them with magic through potion-soaking.
 
@@ -32,7 +32,7 @@ Loroðil has this small obsession with purchasing small figurines and trinkets, 
 [[ABILITIES]]
 Loroðil is a traveler whose main weapon is a longseax and his potions. His combat ability is higher than the average fighter.
 
-Loroðil can speak a total of four languages. His mother tongue is Oddarish, and he also knows Heorthlandic and Abyssal. He also knows how to read Banodic and speak it if he's reading from a script or memorized a line beforehand.
+Loroðil can speak a total of five languages. His mother tongue is Fjallandic, and along that he knows Esrel. He also knows Rotherlandic (Early Middle English) and Abyssal. He also knows how to read Banodic and speak it if he's reading from a script or memorized a line beforehand.
 
 
 
@@ -58,3 +58,10 @@ Loroðil's silver circlet is enchanted. When Loroðil is attacked with a weapon 
 		Repel Evil
 		Lesser Hagall
 		Hulinhjalmur
+
+
+
+[[LORE]]
+Loroðil has ventured south to visit the kingdoms Tarib twice, and Rànûdel once. During his last journey to Tarib, he met an odd person at an ancient watchtower as he traveled to the kingdom. She was called Yelestina, a hybrid of a snake demi-human and a human.
+
+Yelestina tried to stay hidden, but Loroðil eventually discerned that he was being watched and spotted her. When Loroðil didn't seem to have any fear or disgust in her, she slowly stepped out cautiously. He asked her what she was, and she responded "Some kind of elf". Loroðil knew something was off about her, probably because of her serpentine-like eyes (they glowed a little and had slit pupils), but he just assumed she was a "sun elf", which doesn't exist. She then expressed her loneliness to him, but Loroðil just abruptly walked away out of suspicion. A week later, he returned to her and apologized after realizing she was being genuine. After that, over the next week, he visited her every day and accompanied her. Before he returned to his homeland, he disguised himself as a mysterious traveler and gave her a set of clothes and a hooded cloak.

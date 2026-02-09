@@ -1,0 +1,13 @@
+Base "aesthetic" or whatever: Slavic
+
+Preferred weapons:
+	Axe
+	Light crossbow
+	Shortsword
+	War hammer
+
+Preferred metals:
+	Brass
+	Bronze
+	Gold
+	Iron

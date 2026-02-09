@@ -1,22 +1,16 @@
-# Overview
+Copyright © 2023 Oneo64
+
 **This is the main repository for the Aldraheimr Worldbuilding Project! Everything else are either spinoffs (DnDAldpora), or old versions (Aldpor).**
 
-Aldraheimr is a mythic historical fantasy world set in the early medieval ages built and developed by Oneo64. It is not specifically a low or high fantasy setting because those terms don't have a strict definition, and this world just so happens to sit exactly in the middle, leaning toward low fantasy. This project started in July 2023.
+This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of
+the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The
+SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at
+https://creativecommons.org/licenses/by/4.0/legalcode.
 
-My goal with this project is to build a semi-realistic early medieval world, with only a few classical and stereotypical fantasy elements. Because of the lack of grandiosity and wonder, the average man can live a normal (and historical) life without seeing a bit of magic unless he seeks it out or when rare fate strikes. Mythologies and cultures this world takes from are mainly Norse, but it also has some Celtic, Roman, Norman, Slavic, Persian, Chinese, Thai, Maori, and Native American.
+When viewing the secrets of the universe (AldraheimrHistory.txt, Magics.txt, Creatures.txt, etc), please click on the three dots on the top right and turn on Wrap Lines.
 
-The current year is AD 973, and the time of the year is currently Early February. People wage war over political beliefs, religion, hatred, and conquest. Many weapons, technology, and architecture are based on the Late Roman Period to the Late Viking Ages or anything that was from the first ten centuries AD. Structures like ring fortresses are built. Still, monsters like zombies, skeletons, elementals, and dragons exist, but they are not as powerful as most fantasy worlds portray them.
+NOTE: This repository is meant to be read in tab sizes of 4. Any tab size other than 4 will look unformatted (especially character sheets!)
 
-Magic in this world is soft, and there are six types of it. There are four folk magics, which are all shamanic or ritualistic. These magics allow casters to see omens, get visions, curse people, shapeshift, and perform other similar powers. Except for galdrastafir, these magics aren't very flashy. Sometimes, unless you are aware of these magics, you won't even notice they're being cast. There is also sorcery, the only war magic that exists, but it doesn't have any elemental spells. Sorcery is learned, but sorcery is only taught in southern regions. These magics are intentionally designed not to overpower warriors and fortifications. 
+CREATURES: All available creatures are listed in Creatures.txt. Any creature/monster not listed in that file are considered non-existant (except animals and the races of course). If you find a creature said somewhere and it isn't listed, please submit an issue!
 
----
-
-**WARNING: THIS PROJECT IS DISCONTINUED! THERE WILL BE NO MORE UPDATES.**
-
-**(NEW!) Earth version:** https://github.com/Oneo64/TheMirkOfAgmundr
-
-**(REVIVED ALDPOR VERSION!) Aldpor version:** https://github.com/Oneo64/Aldpor<br>*Notice: This version is actually a remake of the first version of all my fantasy worlds, with better balancing, storytelling, etc.*
-
-**Learn Oddarish here:** https://oneo64.github.io/Oddarish-Dictionary
-
-Copyright © 2023 Oneo64. This world and its contents are licensed under CC BY-NC 4.0. License link can be found here: https://creativecommons.org/licenses/by-nc/4.0/
+If you have found an image or you are the owner of that image, and the image is under CC-BY-4.0 or similar, AND you don't see appropriate credits in "ATTRIBUTIONcredits.txt", you can submit an issue under the "copyrighted/trademarked" label.

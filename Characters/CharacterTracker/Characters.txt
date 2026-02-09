@@ -1,5 +1,3 @@
-THIS LIST IS ANACHRONISTIC!!! IGNORE THIS LIST!!!
-
 Humans:
 	Áleifr Alfþorinssen
 	Alfrir
@@ -16,15 +14,15 @@ Humans:
 	Hjalvir the Uncoverer
 	Jeiruld Aldorim
 	Kolr
-	Ljörn
+	Ljorn
 	Loroðil the Galdrarcrafter (Lorothil)
 	Lucanus
+	Meyrúna
 	Mifrún
 	Nix Tamiar
 	Oddir
 	Oddius
 	Randúlfr
-	Rúna
 	Seyja
 	Sindri One-Arm
 	Thuumikishu
@@ -67,3 +65,4 @@ Trolls:
 
 Demi-Humans:
 	Parusyatis
+	Yelestina

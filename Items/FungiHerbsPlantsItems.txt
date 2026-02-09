@@ -1,0 +1,39 @@
+Habitats:
+	Jungles:									Jadeblossom
+	Aodesvic Forests:							Jadeblossom, Practal Gorbry
+	Northern and Southern Fjallandic Forests:	Ekraldi's Toadstool, Practal Gorbry
+	Centrumic Forests:							Jadeblossom, Practal Gorbry
+	Forests of Rànûdel:							Amethyst Gorbry, Jadeblossom, Moonshroom
+	Heirfgrian Forest:							Jadeblossom, Moonshroom
+
+	Veldalfheimr:								Jadeblossom
+	Plane of Earth and Stone:					Dark Lichen
+
+
+
+[[FUNGI]]
+
+Dark Lichen:
+	Dark lichen grows in the Plane of Earth and Stone. It is very black, but glows faintly green in the dark. Dark Lichen is poisonous, and can cause temporary blindness when eaten.
+
+Earthfungus:
+	Earthfungi grows in the Plane of Earth and Stone. It is dark tan and grows in a ball shape. It is around 50 centimeters in diameter.
+
+Ekraldys Toadstool:
+	An ekraldys toadstool is a tall slender mushroom, around 35 centimeters. They are grey, and their cap is brown and has "fur". Ekraldys toadstools are poisonous at full size, and some strands of it's fur start to turn blue. The poison can be removed by fermentation.
+
+Moonshroom:
+	A moonshroom is a small mushroom that can grow up to 10 centimeters. It is colored aqua, with small darker "ripples", resembling the surface of a moon.
+
+
+
+[[PLANTS AND HERBS]]
+
+Amethyst Gorbry:
+	Amethyst Gorbries are a rare bush. Their flowers are a mix of blue and pink, but their fruits are clear and purple, in the shape of a rhombicosidodecahedron and size of a grape. Sometimes at night, they might emit a very faint glow.
+
+Jadeblossom:
+	Jadeblossoms are a bush. Their leaves are long and pointed like bamboo leaves, and their flowers are green with darker swirls, and resemble jade or malachite.
+
+Practal Gorbry:
+	Practal Gorbries are a bush. Their flowers are muted red. Their fruits are soft, and are colored red and yellow like an apple, and are in the shape of an ball and size of a grape.

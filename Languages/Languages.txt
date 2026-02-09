@@ -1,0 +1,43 @@
+Common:
+	Humans:
+		Centrumic (English)
+		Fjallandic (Any English accents should be equivalent to an Icelandic one)
+		Taribian (Any English accents should be equivalent to a Persian one)
+		Aodesvic
+		Rotherlandic (Orrm's Early Middle English)
+
+	Elves:
+		Esrel (Cold Elvish)
+		Rànûdan (Moon Elvish)
+
+	Dwarves:
+		Banodic
+		Mornesvian
+
+Uncommon:
+	Daevas/Orcs:
+		Neshozic
+
+	Centaurs:
+		Sylvendric (Sylvan + Centrumic)
+
+Exotic:
+	Wòrdimunag (Primordial)
+	Sylvan
+	Abyssal
+
+	Primordial Dwarven
+	Old Banodic
+
+	Haearic
+	Borian
+	Borusdaliandurish
+	Old Taribian
+	Grutorian
+	Galabric
+	Old Cantrium
+	Primal Fjallandic
+
+	Ancient Elvish
+	Old Rànûdan
+	Old Esrel

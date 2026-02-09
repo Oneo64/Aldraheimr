@@ -1,16 +1,157 @@
 [[OVERVIEW]]
 Aldraheimr is a mythic historical fantasy world set in the early medieval ages. It is not specifically a low or high fantasy setting because those terms don't have a strict definition, and this world just so happens to sit exactly in the middle, leaning toward low fantasy. This project started in July 2023.
-My goal with this project is to build a semi-realistic early medieval world, with only a few classical and stereotypical fantasy elements. Because of the lack of grandiosity and wonder, the average man can live a normal (and historical) life without seeing a bit of magic unless he seeks it out or when rare fate strikes. Mythologies and cultures this world takes from are mainly Norse, but it also has some Celtic, Roman, Norman, Slavic, Persian, Chinese, Thai, Maori, and Native American.
 
-The current year is AD 973, and the time of the year is currently Early February. People wage war over political beliefs, religion, hatred, and conquest. Many weapons, technology, and architecture are based on the Late Roman Period to the Late Viking Ages or anything that was from the first ten centuries AD. Structures like ring fortresses are built. Still, monsters like zombies, skeletons, elementals, and dragons exist, but they are not as powerful as most fantasy worlds portray them.
+My goal with this project is to build a semi-realistic early medieval world, with only a few classical and stereotypical fantasy elements. Because of the lack of grandiose and wonder, the average man can live a normal (and historical) life without seeing a bit of magic unless he seeks it out or when rare fate strikes. Mythologies and cultures this world takes from are mainly Norse, but it also has some Celtic, Roman, Norman, Slavic, Persian, and Chinese.
 
-Magic in this world is soft, and there are six types of it. There are four folk magics, which are all shamanic or ritualistic. These magics allow casters to see omens, get visions, curse people, shapeshift, and perform other similar powers. Except for galdrastafir, these magics aren't very flashy. Sometimes, unless you are aware of these magics, you won't even notice they're being cast. There is also sorcery, the only war magic that exists, but it doesn't have any elemental spells. Sorcery is learned, but sorcery is only taught in southern regions. These magics are intentionally designed not to overpower warriors and fortifications. 
+The current year is AD 973, and the time of the year is currently Early February. People wage war over political beliefs, religion, hatred, and conquest. Many weapons, technology, and architectures are based on the Late Roman Period to the Late Viking Ages, or anything that was from the first ten centuries AD. Structures like ring fortresses are built. Still, monsters like zombies, skeletons, elementals, and dragons exist, but they are not as powerful as most fantasy worlds portray them.
+
+Magic in this world is soft, and there are five types of it. There are four folk magics, which are all shamanic or ritualistic. These magics allow casters to see omens, get visions, curse people, shapeshift, and perform other similar powers. Except for galdrastafir, these magics aren't very flashy. Sometimes, unless you were aware of these magics, you won't even notice they're being cast. There is also sorcery, the only war magic that exists, but it doesn't have any elemental spells. Sorcery is learned, but sorcery is only taught in southern regions. These magics are intentionally designed not to overpower warriors and fortifications.
 
 Medieval Stasis: The gods want to see competition and progress in strength. Still, new technology can be developed, but they will likely be lost due to thieves, bandits, and war. Technology is currently comparable to earth's 1st to 10th century, will develop until the highest point of technology is comparable to earth's 12th - 14th century.
 
 
 
-[[GAME/ROLEPLAYING (Author's note: Ignore this for now)]]
+[[ANCESTRY]]
+Cold elves evolved from moon elves.
+
+Humans evolved from cold elves.
+
+Dwarves had human ancestors. They have a greater ambition than humans, making them desire more wealth and power. So they took on mining, as it was the safest way to gain gold, silver and crystals without danger. From long periods of time being in dark areas and mining, their skin has gone very white, and their hair has gone very blonde or red, brighter than most humans. They also have the same lifespan of humans.
+
+Dwarves have multiple kings. Each king usually handles a part of the kingdom, like a pantheon. One of the dwarven king will be the kings leader. Examples: One king handles the kingdom's army, one handles imports and exports, one handles economy etc.
+
+Elves are more likely to worship Parhrügi, Hirulfyr, Lünanyr, or any of the three moons, but moon elves will not worship An.
+
+Average lifespans:
+	Human:		50-80
+	Dwarf:		120-140 (dwarves age until 80 years old, then their aging slows down)
+	Moon Elf:	170-230
+	Cold Elf:	120-140
+	Orc:		60-80
+	Troll:		40-60
+
+
+
+[[KINGDOMS]]
+MEN:
+	Centruma:
+		Main language is Centrumic
+		Culture is Central Men
+		Political structure is elected autocracy
+
+		Current allies: Fjalland, Aodesvu
+		Current wars:   Yûmlathnar, Vatakond
+
+	Fjalland:
+		Main language is Fjallandic
+		Culture is Northern Men
+		Political structure is feudal absolute monarchy
+
+		Current allies: Centruma, Esrelu, Vuntarla
+		Current wars:   Yûmlathnar, Vatakond
+
+	Tarib:
+		Main language is Taribian
+		Culture is Taribian (Persian)
+		Political structure is aristocracy
+
+		Current wars: Neshoz
+
+	Aodesvu:
+		Main language is Aodesvic
+		Culture is Aodesvic
+		Political structure is elected autocracy
+
+	Þafnorðarleit:
+		Main language is Fjallandic
+		Culture is Northern Men
+		Political structure is feudal absolute monarchy
+
+	Rotherland:
+		Main language is Rotherlandic
+		Culture is Rotherlandic
+		Political structure is feudal absolute monarchy
+
+ELVES:
+	Esrelu:
+		Main language is Esrel
+		Other language is Fjallandic
+		Culture is Northern Elvish
+		Political structure is noocracy
+
+		Current allies: Fjalland, Vuntarla
+		Current wars:   Yûmlathnar, Vatakond
+
+	Rànûdel:
+		Main language is Rànûdan
+		Culture is Moon Elvish
+		Political structure is geniocracy
+
+		Current wars: Evil fey
+
+	Yûmlathnar:
+		Main language is Rànûdan
+		Culture is Moon Elvish
+		Political structure is elected autocracy
+
+		Current allies: Vatakond, Evil fey
+		Current wars:   Fjalland, Esrelu, Centruma
+	
+MEN AND ELVES:
+	Vuntarla:
+		Populated by cold elves, elfmen, and mostly men
+		Main language is Fjallandic and Esrel
+		Culture is Fjallandic
+		Political structure is absolute monarchy
+
+		Current allies: Fjalland
+
+DWARVES:
+	Glomdur:
+		Main language is Banodic
+		Culture is Banodic
+		Political structure is elected diarchy
+
+		Current allies: Banod
+		Current wars:   Yûmlathnar
+
+	Banod:
+		Main language is Banodic
+		Culture is Banodic
+		Political structure is elected diarchy
+
+		Current allies: Glomdur
+
+	Mornesvid:
+		Main language is Mornesvian
+		Culture is Mornesvian
+		Political structure is magocracy
+
+CENTAURS:
+	Vatakond:
+		Main language is Sylvendric
+		Culture is Centaur
+		Political structure is noocracy
+
+		Current allies: Yûmlathnar, Evil fey
+		Current wars:   Fjalland, Esrelu, Centruma
+
+	Heirfgria:
+		Main language is Sylvendric
+		Culture is Centaur
+		Political structure is noocracy
+
+ORCS:
+	Neshoz:
+		Main language is Neshozic
+		Culture is Neshozic
+		Political structure is noocracy
+
+		Current wars: Tarib
+
+
+
+[[GAME/ROLEPLAYING]]
 Craftsmanship things:
 	Common: Woodworking, Leatherworking (not shoes) Metalworking, Lumberjack, Miner
 	Uncommon: Stone mason

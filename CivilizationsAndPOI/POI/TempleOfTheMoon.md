@@ -8,6 +8,6 @@
 
 The Temple of the Moon is an ancient structure located on a plateau on the northwest coast, dedicated to the moon. From the bottom, gravel paths lead up to a single, high hill. A bell tower made of limestone sits on the hill.
 
-This place is occasionally visited by Heorthlandic pilgrims, who consider this tower a sacred place.
+This place is occasionally visited by Esrel pilgrims, who consider this tower a sacred place.
 
-It's rumored that it was built by alfar, but no one knows who built it, or why.
+Although it was built by cold elves of the ancient world, it's rumoured that it was actually built by the alfar.

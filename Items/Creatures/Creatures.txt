@@ -37,7 +37,7 @@ Beasts are just animals, but maybe some are magical.
 ====================================================================================================
 
 Glimmering Moth:
-	Glimmering moths live in the Mountains of Bark.
+	Glimmering moths live in the Mountains of Ranûdel.
 
 	Appearance:
 		A glimmering moth is a moth approximately 5 times larger than a brown house moth. It has a brown color, with small blue streaks.

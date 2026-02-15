@@ -12,9 +12,9 @@
 	<tr> <td>Cultural region</td> <td>Northern</td> </tr>
 	<tr> <td>Main culture</td> <td>Northmannish</td> </tr>
 	<tr> <td>Religions</td> <td>Northern paganism</td> </tr>
-	<tr> <td>Languages</td> <td>Oddarish, Heorthlandic</td> </tr>
+	<tr> <td>Languages</td> <td>Oddarish</td> </tr>
 	<tr> <th colspan=2>Relations</th> </tr>
-	<tr> <td>Allies with</td> <td>Heorthland</td> </tr>
+	<tr> <td>Allies with</td> <td>Esrela, Heorthland</td> </tr>
 	<tr> <td>Wars with</td> <td>Wulfscithia, Vatakond</td> </tr>
 </tbody></table>
 
@@ -74,7 +74,7 @@ Free men make up the vast majority of Oddarsveldi's people.
 Most slaves are either prisoners of war or convicted criminals serving public service for the king, a jarl, or a hersir. Servants are more of a job, which can take the place of a slave. The advantages servants have over slaves are that they are treated less harshly, they earn money, and their labor isn't forced, meaning they can leave anytime. However, if a slave is found to take the place of a servant, the servant will be dismissed.
 
 ## Trade
-Oddarsveldi mainly exports iron, wool, and rye. They mostly trade with Heorthland and Centruma. They also export herbs common in the Northern and Southern Northmannish Forests such as ekraldys toadstools, and spices grown in winter.
+Oddarsveldi mainly exports iron, wool, and rye. They mostly trade with Esrela and Centruma. They also export herbs common in the Northern and Southern Northmannish Forests such as ekraldys toadstools, and spices grown in winter.
 
 There is a trade route between Álahringr and Óssvík, where Óssvík supplies Álahringr with fish and Álahringr supplies Óssvík with wood.
 

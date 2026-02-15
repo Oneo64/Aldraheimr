@@ -5,6 +5,9 @@ Common:
 	Audeveaurian
 	Rotherlandic (Orrm's Early Middle English)
 	Heorthlandic
+	Esrel
+	Ranûdan
+	Banodic
 
 Uncommon:
 	Daevas/Orcs:
@@ -27,3 +30,9 @@ Ancient Languages:
 	Galabric
 	Old Cantrium
 	Old Oddarish
+	Old Esrel
+	Old Ranûdan
+	Ancient Elvish
+	Ranûladaenian
+	Primeval Dwarvish
+	Old Banodic

@@ -1,0 +1,51 @@
+Helessin
+
+Male
+Age: 48, looks mid thirties (born 925, April 12)
+Alignment: Neutral
+Ethnicity: Esrel
+Race:      Cold Wood Elf
+
+
+
+[[DESCRIPTION]]
+Helessin is a knight of Esrelu. He has wood-brown skin, black hair, golden eyes, and long earlobes. His eyes are pupiless, and he has thick eyebrows. His right pinky finger was severed off by a bandit's axe when he got to close to one at 22 years old.
+
+He wears an iron nasal helmet, a dark blue cloak, dark green tunic with brown embroidery, dark brown woolen pants, a buckled belt, and a pair of boots. He has a wood bead necklace.
+
+He carries a flanged mace with him.
+
+
+
+[[PERSONALITY]]
+Helessin can be described as an aloof knight, and can be easily angered by clumsiness. He is also pessimistic, shown when anytime risks are involved, he is usually more concerned than usual and will try and take extra precautions.
+
+
+
+[[ABILITIES]]
+Helessin was born a sorcerer, and can cast magic on will. He can also speak fluent Dagsvaldian with his native language, Esrel. Sometimes, he practices fighting with his flanged mace.
+
+
+
+[[SORCERY]]
+	Minor:
+		Mage Hand, Message
+		Terra Blast
+
+	Basic:
+		Blur
+		Detect Magic, Dragonfire
+		Fire Bolt
+		Icy Touch
+		Mage Armor, Magic Missile, Mending
+		Shield, Sparks
+
+	Major:
+		Burning Hands
+		Fireball
+		Scorch Bolt, Shockwave, Sulfur Rain
+
+	Powerful:
+		Conjure Elementals
+		Darkness
+		Ring of Fire

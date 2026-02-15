@@ -37,7 +37,7 @@ Supernatural magic is a type of magic that only certain creatures and phenomena 
 
 [[DRUIDRY]]
 ====================================================================================================
-Druidry is a shamanic magic, traditionally a feminine magic. This magic is normally found in the northern and central regions of Myrkjörðr. Unless shapeshifting to a dangerous animal, Druidry can't be used to directly harm anyone, even if the druid intended it.
+Druidry is a shamanic magic, traditionally a feminine magic. This magic is normally found in the northern and central regions of Myrkjörðr. Unless shapeshifting to a dangerous animal, Druidry can't be used to directly harm anyone, even if the druid intended it. It is also one of the most common types of magics amongst elven societies.
 ====================================================================================================
 Invoke small plants:
 By touching some grass or a small plant and then speaking an incantation, you can make it age, wither, bloom, grow, reverse it to a seed, and other things a small plant can do within several seconds.
@@ -125,7 +125,7 @@ Necromancy is a taboo practice and is deemed evil by most people. Because it's m
 
 [[GALDRASTAFIR]]
 ====================================================================================================
-Galdrastafir are magical symbols drawn on a surface that can do magical things. This magic is practiced in northern regions like Oddarsveldi and Heorthland and is the most common type found there.
+Galdrastafir are magical symbols drawn on a surface that can do magical things. This magic is practiced in northern regions like Oddarsveldi, Esrela, and Heorthland, and is the most common type found there.
 
 You can create a stave by drawing on a surface with dark-colored materials (like coal, paint, tar, etc), and then writing whoever is affected by it around the stave. There are also other ways to make a stave, like carving it. The stave can't be larger than twice the length of a man's arm, or it won't work properly. If you've done it correctly, it starts to glow a bit red. If it's drawn wrong, it'll still glow red but not as bright, and might cause some minor unknown effect.
 

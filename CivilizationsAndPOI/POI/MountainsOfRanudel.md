@@ -1,9 +1,8 @@
 # The Mountains of Ranûdel
-
 <table><tbody>
 	<tr> <th colspan=2>The Mountains of Ranûdel</th> </tr>
 	<tr> <td>Region</td> <td>Eastern Myrkjörðr</td> </tr>
-	<tr> <td>Inhabitants</td> <td>Glimmering Moths, Krasues, Stone Giants</td> </tr>
+	<tr> <td>Inhabitants</td> <td>Glimmering Moth<br>Krasue<br>Stone Giant</td> </tr>
 	<tr> <td>Plants</td> <td>Black hellebore<br>Blue poppy<br>Ghost pipe<br>Lungwort</td> </tr>
 </tbody></table>
 

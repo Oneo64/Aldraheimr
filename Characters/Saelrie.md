@@ -36,8 +36,7 @@ Säelrie learned Centrumic (English) to talk to humans.
 ### Druidry
 Säelrie practices druidry.
 
-**Druidic powers**
-
+**Druidic powers:**
 - Invoke small plants
 - Talk to animals
 - Heal wounds

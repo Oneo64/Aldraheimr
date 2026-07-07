@@ -1,8 +1,8 @@
 Common:
-	Centrumic (English, or can be Chaucerian Middle English)
+	Centrumic (Equivalent to English, Latin, or Chaucerian Middle English)
 	Oddarish (Any English accents should be equivalent to an Icelandic one)
 	Taribian (Any English accents should be equivalent to a Persian one)
-	Audeveaurian
+	Audeveaurian (Equivalent to French or Old French)
 	Rotherlandic (Orrm's Early Middle English)
 	Heorthlandic
 	Esrel

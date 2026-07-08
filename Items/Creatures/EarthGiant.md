@@ -5,7 +5,7 @@
 	<tr> <td>Native to</td> <td>Sotjörðr</td> </tr>
 </tbody></table>
 
-Earth giants are natural manifestations inside Sotjörðr.
+An earth giant is a natural manifestation inside Sotjörðr. They have week-long hibernation periods where they curl up into an indistinguishable boulder and become a normal-looking lump of rock, which they enter after being awakened for a few days.
 
 ## Description
 Earth giants are tall, bulky, and hulking humanoids composed of dirt and soil chunks, standing 4 meters tall. Despite their name, they are only the size of a human. They can see normally even though they don't have facial features.

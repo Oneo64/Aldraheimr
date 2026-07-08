@@ -5,7 +5,7 @@
 	<tr> <td>Native to</td> <td>Sotjörðr</td> </tr>
 </tbody></table>
 
-Ice spirits are natural manifestations of Talmundur originating in northern regions. They are social "creatures", usually forming groups of up to ten members. They try to stick to the northernmost areas so that they don't melt.
+An ice spirit is a natural manifestation of Talmundur originating in northern regions. They are social "creatures", usually forming groups of up to ten members. They try to stick to the northernmost areas so that they don't melt.
 
 ## Description
 Ice spirits are man-shaped ice humanoids. They don't have a face, but they can see normally.

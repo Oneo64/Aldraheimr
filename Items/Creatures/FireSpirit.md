@@ -5,7 +5,7 @@
 	<tr> <td>Native to</td> <td>Sotjörðr</td> </tr>
 </tbody></table>
 
-Fire spirits are natural manifestations of Talmundur originating in southern regions. They are emotionless and cold. They try to avoid forests, jungles, and other wooded areas, residing in drier places like deserts and rocky mountains.
+A fire spirit is a natural manifestation of Talmundur originating in southern regions. They are emotionless and cold. They try to avoid forests, jungles, and other wooded areas, residing in drier places like deserts and rocky mountains.
 
 ## Description
 Fire spirits are living blazes in the shape of legless humanoids. Their only facial feature is a pair of demonic eyes, resembling wavering spots of soot with bright specks inside.

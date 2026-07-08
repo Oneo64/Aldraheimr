@@ -6,7 +6,7 @@
 	<tr> <td>Native to</td> <td>Sotjörðr<br>The Mountains of Bark</td> </tr>
 </tbody></table>
 
-Stone giants are natural manifestations inside Sotjörðr. Sometimes they can be found in the Mountains of Bark.
+A stone giant is a natural manifestation that forms inside Sotjörðr and on the Mountains of Bark. They have week-long hibernation periods where they curl up into an indistinguishable boulder and become a normal-looking lump of rock, which they enter after being awakened for a few days.
 
 ## Description
 Stone giants are tall, bulky, and hulking humanoids completely made of chunks of rock, standing at a height of 4 meters. They can see normally even though they don't have facial features, but they are colourblind.

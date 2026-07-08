@@ -1,5 +1,4 @@
 # Draugr
-
 <table><tbody>
 	<tr> <th colspan=2>Draugr</th> </tr>
 	<tr> <td>Type</td> <td>Revenant</td> </tr>

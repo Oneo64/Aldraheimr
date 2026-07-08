@@ -1,5 +1,4 @@
 # Gvarth
-
 <table><tbody>
 	<tr> <th colspan=2>Gvarth</th> </tr>
 	<tr> <td>Type</td> <td>Construct</td> </tr>

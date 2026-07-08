@@ -6,13 +6,12 @@
 	<tr> <td>Native to</td> <td>Sotjörðr<br>The Mountains of Bark</td> </tr>
 </tbody></table>
 
-Stone giants are natural manifestations inside of Sotjörðr, and sometimes in the Mountains of Bark.
+Stone giants are natural manifestations inside Sotjörðr. Sometimes they can be found in the Mountains of Bark.
 
 ## Description
-Stone giants looks like a hulking humanoid completely made of chunks of stone. Stone giants don't have a face, but they can see normally. Some stone giants may have moss or lichen growing on their bodies.
+Stone giants are tall, bulky, and hulking humanoids completely made of chunks of rock, standing at a height of 4 meters. They can see normally even though they don't have facial features, but they are colourblind.
 
-A stone giant typically stands at a height of almost four meters.
-
+Some of them may have moss or lichen growing on their bodies, signalling longevity. Some of them even have decorated themselves with flowering vines, a sign of their sense of beauty.
 
 ## Abilities
-Stone giants cannot speak, but they can understand Wòrdimunag (Primordial). They don't have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
+Stone giants can understand Wòrdimunag (Primordial) but cannot speak it. They can pick up weapons and wear armour, but cannot throw and perform elaborate moves (like martial arts), relying on flailing their arms to attack.

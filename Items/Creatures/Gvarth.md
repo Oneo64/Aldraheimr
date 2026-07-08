@@ -2,6 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Gvarth</th> </tr>
 	<tr> <td>Type</td> <td>Construct</td> </tr>
+	<tr> <td>Based on</td> <td>The Whomping Willow (Harry Potter series)</td> </tr>
 </tbody></table>
 
 A gvarth (Oddarish: *gvarðr*) is a sentient tree created from normal living trees by evil fey as soldiers.

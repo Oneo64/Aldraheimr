@@ -3,6 +3,7 @@
 	<tr> <th colspan=2>Dryad</th> </tr>
 	<tr> <td>Type</td> <td>Fey</td> </tr>
 	<tr> <td>Native to</td> <td>Veldalfheimr</td> </tr>
+	<tr> <td>Based on</td> <td>Dryad (D&D)</td> </tr>
 </tbody></table>
 
 A dryad is a female fey creature native to Veldalfheimr, bound to her own tree. However, if that tree is killed, she goes into a frenzy and will attempt to kill the person who harmed their tree.

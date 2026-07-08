@@ -3,6 +3,7 @@
 	<tr> <th colspan=2>Krasue</th> </tr>
 	<tr> <td>Type</td> <td>Revenant</td> </tr>
 	<tr> <td>Native to</td> <td>Central and southern Myrkjörðr</td> </tr>
+	<tr> <td>Based on</td> <td>Krasue (Southeast Asian folklore)</td> </tr>
 </tbody></table>
 
 A krasue is a cursed woman's spirit that dwells in forests and jungles, especially the southern ones. One may become a krasue if she has sinned and was cursed to become one.

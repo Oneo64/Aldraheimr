@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Sea Wretch</th> </tr>
 	<tr> <td>Type</td> <td>Fey</td> </tr>
-	<tr> <td>Inspiration</td> <td>Ponaturi (Maori mythology)</td> </tr>
+	<tr> <td>Based on</td> <td>Ponaturi (Maori mythology)</td> </tr>
 </tbody></table>
 
 A sea wretch is a small, goblin-like creature that dwells in the water of a beach.

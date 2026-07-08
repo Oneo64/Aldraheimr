@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Troll</th> </tr>
 	<tr> <td>Type</td> <td>Fey</td> </tr>
-	<tr> <td>Native to</td> <td>Sotjörðr</td> </tr>
+	<tr> <td>Native to</td> <td>Northern Myrkjörðr</td> </tr>
 </tbody></table>
 
 A troll is a northern forest creature that lives in tribes.

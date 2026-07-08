@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Ice Spirit</th> </tr>
 	<tr> <td>Type</td> <td>Elemental</td> </tr>
-	<tr> <td>Native to</td> <td>Sotjörðr</td> </tr>
+	<tr> <td>Native to</td> <td>Northern Myrkjörðr</td> </tr>
 </tbody></table>
 
 An ice spirit is a natural manifestation of Talmundur originating in northern regions. They are social "creatures", usually forming groups of up to ten members. They try to stick to the northernmost areas so that they don't melt.

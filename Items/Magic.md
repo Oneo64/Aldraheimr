@@ -72,22 +72,29 @@ Galdrastafir are drawn with chalk or coal, and usually have a range of twenty cu
 
 Galdrastafir can be foiled if thick liquids are spilled onto them, like oil, tar, or blood. If exposed to rain or is underwater, their glow and magical strength will flicker between normal and weak.
 
-**Simple Staves:** These are the staves you can make:
+**Powers:**
+- **Simple Staves:** These are the staves you can make:
   - **Gapaldur:** Allies shall be stronger when they wield no weapon.
-  - **Vegvísir:** Allies shall never be deterred by the cold, wind and rain, and shall not be soaked or lightning-struck as easily as without its empowerment.
   - **Tóustefna:** Drawn on oak, all foxes shall be frightened and flee.
-**Intricate Staves:** Intricate staves require effort and practice to draw. These are the staves you can make:
+  - **Vegvísir:** Allies shall never be deterred by the cold, wind and rain, and shall not be soaked or lightning-struck as easily as without its empowerment.
+- **Intricate Staves:** Intricate staves require effort and practice to draw. These are the staves you can make:
   - **Ægishjálmur:** Carved on the outside of a helmet, the wearer will be granted a slight boost in strength.
   - **Andbrennsla**: Carved on any wood, that piece can catch fire but won't burn.
-  - **Andárar**: Weak-willed demons and undead shall recoil and flee.
-  - **Andillur**: Carved on a door, no creature of evil can willingly enter.
-  - **Blóðuxar og Jarðauxar:** Carve these staves inside the lid of a chest. Carve the first at day and the second at night. After that, none can open the chest but those who carved the staves.
+  - **Blóðuxar og Jarðuxar:** Carve these staves inside the lid of a chest. Carve the first at day and the second at night. After that, none can open the chest but those who carved the staves.
   - **Brýnslustafir:** The blades of allies shall cut with ease upon attacking their foes.
-  - **Lesser Hagall:** No magic can be cast or created near this stave, but this stave doesn't affect itself. If this stave nears another Lesser Hagall, they cancel each other out.
+  - **Djöflavörn**: Weak-willed demons and undead shall recoil and flee.
   - **Hulinhjálmur**: Carved on a helmet, the wearer will be granted half-invisibility.
+  - **Illavörn**: Carved on a door, no creature of evil can willingly enter.
+  - **Lesser Hagall:** No magic can be cast or created near this stave, but this stave doesn't affect itself. If this stave nears another Lesser Hagall, they cancel each other out.
   - **Veldismagn**: Drawn with blood on stone, let it lie upon your chest, and you shall be protected from evil and disease.
 
 ## Gu
 Gu magic is a type of poison-based shamanic magic, deemed evil by many. It is used to give poisons magical properties, and their effects end as soon as the affected person falls asleep or loses consciousness.
 
 Gu magic is used by demi-humans and is prevalent in southern regions.
+
+**Power:**
+- **Bewitch their family to sickness:** When someone consumes this poison, their whole family (not including the external family) is bewitched to catch a cold. This includes parents, siblings, and children.
+- **Charm and seduce:**
+When someone consumes this poison, they go into an unnoticeable trance-like state where they will follow your orders because you are gorgeous to them.
+- **Charm and seduce into terrible illness:** When someone consumes this poison, they will enter a trance-like state where they are sexually aroused. They will also begin to think about you almost non-stop and imagine you in their mind. This effect can also be described as being magically in love, but in an extreme sense.

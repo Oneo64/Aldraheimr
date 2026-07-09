@@ -46,12 +46,46 @@ Sorcery is magic that is learned through education and is the only type of insti
 
 Sorcery is most commonly practised in southern civilisations like Taribia, where there are established schools for it.
 
+**Powers:**
+- **Illusion (beginner):** By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
+  - **Illusion of Sight:** A small illusory trinket appears on your hand.
+  - **Illusion of Sound:** A faint, short sound happens at your hands, such as the sound of glass shattering, footsteps, or voices.
+  - **Wispy Aura:** A small burst of mist emits from your hands.
+- **Enhancements:** Enhancements are spells that can be placed on things. These effects usually last about 10 minutes.
+  - **Hasten:** By chanting and staring at someone, you can grant them the power to move faster than they can.
+  - **Lighten:** By chanting and keeping a hand on an object, you can cause it to become lighter in weight.
+  - **Strengthen:** By chanting and keeping a hand on an object, you can cause it to become harder to dent and destroy.
+  - **Warm:** By chanting and keeping a hand on an object, you can cause it to become warmer.
+  - **Cool:** By chanting and keeping a hand on an object, you can cause it to become cooler.
+- **Fabrications:** Fabrications are spells that are exceedingly difficult to cast. By chanting their incantations, you can make their effects happen:
+  - **Explode:** By pointing at a spot, you cause that spot to glow with a speck of golden colour. If maintained for several seconds, it explodes like a firecracker.
+  - **Mind-read:** By chanting and staring at someone's forehead, you can hear their thoughts.
+  - **Shield:** A faint shimmering dome forms around your hand, allowing you to choose its position and direction. The dome acts like a physical shield: small strikes (like a sword or arrow) simply bounce off, but big strikes (like a catapulted rock) send you flying backwards. The dome is one-use only, disappearing after absorbing a strike.
+  - **Strike:** By speaking an incantation, you cause a shimmering streak of white force to shoot out of your hand and strike a target with a faint flash of light. This projectile is as strong as your punch.
+  - **Wind:** By speaking an incantation, you cause a strong, directed burst of wind to rush out of your hand.
+- **Necromancies:** Necromancy is a taboo practice and is deemed evil by most people. It is used to reanimate the dead, induce mind-control, and perform other immoral things. People have tried to remove it from the world, making it extremely obscure, longer to learn, and harder to cast. To cast necromantic magic, the sorcerer must hold a piece of onyx in one hand, a piece of obsidian in another, and chant an incantation.
+
 ## Galdrastafir
 Galdrastafir are magical symbols drawn on surfaces and can do magical things. This magic is practiced in northern civilisations like Oddarsveldi, Esrela, and Heorthland, and is the most common type found there.
 
 Galdrastafir are drawn with chalk or coal, and usually have a range of twenty cubits. A stave is usually drawn with a diameter of two cubits to ensure full potency. Once activated, a stave begins to glow faintly red.
 
 Galdrastafir can be foiled if thick liquids are spilled onto them, like oil, tar, or blood. If exposed to rain or is underwater, their glow and magical strength will flicker between normal and weak.
+
+**Simple Staves:** These are the staves you can make:
+  - **Gapaldur:** Allies shall be stronger when they wield no weapon.
+  - **Vegvísir:** Allies shall never be deterred by the cold, wind and rain, and shall not be soaked or lightning-struck as easily as without its empowerment.
+  - **Tóustefna:** Drawn on oak, all foxes shall be frightened and flee.
+**Intricate Staves:** Intricate staves require effort and practice to draw. These are the staves you can make:
+  - **Ægishjálmur:** Carved on the outside of a helmet, the wearer will be granted a slight boost in strength.
+  - **Andbrennsla**: Carved on any wood, that piece can catch fire but won't burn.
+  - **Andárar**: Weak-willed demons and undead shall recoil and flee.
+  - **Andillur**: Carved on a door, no creature of evil can willingly enter.
+  - **Blóðuxar og Jarðauxar:** Carve these staves inside the lid of a chest. Carve the first at day and the second at night. After that, none can open the chest but those who carved the staves.
+  - **Brýnslustafir:** The blades of allies shall cut with ease upon attacking their foes.
+  - **Lesser Hagall:** No magic can be cast or created near this stave, but this stave doesn't affect itself. If this stave nears another Lesser Hagall, they cancel each other out.
+  - **Hulinhjálmur**: Carved on a helmet, the wearer will be granted half-invisibility.
+  - **Veldismagn**: Drawn with blood on stone, let it lie upon your chest, and you shall be protected from evil and disease.
 
 ## Gu
 Gu magic is a type of poison-based shamanic magic, deemed evil by many. It is used to give poisons magical properties, and their effects end as soon as the affected person falls asleep or loses consciousness.

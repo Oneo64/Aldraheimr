@@ -7,7 +7,7 @@ Even though magic itself is formless and shapeless, the races of men have found 
 ## Druidry
 Druidry is a type of shamanic magic, traditionally practiced by women. Unless shapeshifting into a dangerous animal, it can't be used to directly harm anyone, even if the druid intended it. It is one of the most common types of magic amongst elven societies.
 
-**Druidic powers:**
+**Powers:**
 - **Invoke small plants:** By touching some grass or a small plant and then speaking an incantation, you can make it age, wither, bloom, grow, reverse to a seed, and do other things a small plant can do within several seconds.
 - **Talk to animals:** Anytime you want, you can speak Druidic or Sylvan to animals and have them understand your speech. They won't be able to respond in the same manner.
 - **Heal wounds:** By holding a beaded wooden bracelet in your other hand and hovering your palm over an open wound on a creature, you can slowly heal that wound. If the wound naturally results in a scar, then the scar is the result of the magically healed wound. A small cut is healed instantly; however, a wound such as a sword slash can take tens of minutes.
@@ -16,6 +16,30 @@ Druidry is a type of shamanic magic, traditionally practiced by women. Unless sh
 
 ## Seiðr
 Seiðr is a type of shamanic magic, traditionally practised by women. It can be used to foresee events through omens, bewitch illnesses, and shapeshift.
+
+**Powers:**
+- **Scour for the unseen omens:** By holding a beaded amber bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Some examples of hallucinatory omens you could experience:
+  - Crows and ravens surrounding someone or a location for bad luck
+  - One or two crows or ravens surrounding someone for good luck
+  - One owl near someone for intelligence or wisdom
+  - One parrot near someone for low intelligence or wisdom
+  - Red eyes for a possibility of a sickness during the winter
+  - Faint blue aura around someone for sadness
+  - Faint white aura around someone for innocence
+  - Faint black aura around someone for ill intentions
+- **Scour for deeper omens:** By holding a beaded amber and jade bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Some examples of hallucinatory omens you could experience:
+  - Feel a chill for a blizzard or snowstorm
+  - Smell of the sea for rain
+  - Feeling warm for a drought
+  - A black aura surrounding someone or a location for dread/evil
+  - A green aura surrounding someone or a location for fey activity
+- **Bless them luck or curse them illness:** By chanting an incantation and staring at a living target, you can either make them slightly luckier or unluckier.
+- **Bewitch them sickness (hard):** By chanting an incantation and staring at a living target, you can bewitch them to catch a cold.
+- **Foresee (hard):** By closing your eyes, holding a beaded amber and jade bracelet in your hand, and speaking a chant, you start to hallucinate a vision. Some examples of visions:
+  - What that person is thinking.
+  - What the person is doing and where they are, if not blocked by a Lesser Hagall stave.
+  - What happened to that person in the past.
+- **Shapeshift (hard):** By holding a small piece of amber in your hand and speaking an incantation, you can shift into any forest animal from your region that you've seen before.
 
 ## Sorcery
 Sorcery is magic that is learned through education and is the only type of institutionalised magic. It usually has an effective range of forty-four cubits.

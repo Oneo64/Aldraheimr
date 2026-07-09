@@ -10,29 +10,39 @@ An indexing file for creatures found in Aldraheimr.
 - [Wraith](Creatures/Wraith.md)
 
 ### Northern regions
+###### General
 - [Draugr](Creatures/Draugr.md)
 - [Elven Spirit](Creatures/ElvenSpirit.md)
-- [Frost Dragon](Creatures/FrostDragon.md)
-- [Ice Spirit](Creatures/IceSpirit.md)
 - [Troll](Creatures/Troll.md)
 
+###### Northmost
+- [Frost Dragon](Creatures/FrostDragon.md)
+- [Ice Spirit](Creatures/IceSpirit.md)
+
 ### Central regions
+###### General
 - [Great Leafbug](Creatures/GreatLeafbug.md)
 - [Krasue](Creatures/Krasue.md)
 - [Raven Mocker](Creatures/RavenMocker.md)
 - [Sea Wretch](Creatures/SeaWretch.md)
 
-### The Mountains of Ranûdel
+###### The Mountains of Ranûdel
 - [Glimmering Moth](Creatures/GlimmeringMoth.md)
 - [Stone Giant](Creatures/StoneGiant.md)
 
 ### Southern regions (including Neshozia)
+###### General
 - [Daeva](Creatures/Daeva.md)
-- [Fire Dragon](Creatures/FireDragon.md)
-- [Fire Spirit](Creatures/FireSpirit.md)
 - [Krasue](Creatures/Krasue.md)
 - [Manticore](Creatures/Manticore.md)
 - [Sea Wretch](Creatures/SeaWretch.md)
+
+###### The Taribian Desert
+- [Fire Dragon](Creatures/FireDragon.md)
+- [Fire Spirit](Creatures/FireSpirit.md)
+
+###### Neshozia
+- [Fire Dragon](Creatures/FireDragon.md)
 
 ## Veldalfheimr
 - [Centaur](Creatures/Centaur.md)

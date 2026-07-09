@@ -1,3 +1,2 @@
 # The Western Island
-
-Western Island is a small island west continent, just below Lantheressil Peninsula. This island is a wild island, covered in a coniferous pine forest.
+The Western Island is a small, untouched island west of the mainland, just below Lantheressil Peninsula. It is covered by a coniferous pine forest.

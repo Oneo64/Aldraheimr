@@ -6,13 +6,8 @@
 	<tr> <td>Ruler</td> <td>King Vasôlas</td> </tr>
 </tbody></table>
 
-Endarassil is built around a karst on the top of a hill, and is about 70 meters high from the top of the hill to the top of the karst. The hill area which isn't jagged allows for a large town built around this karst, which is around the same size of every district in Fjalland combined. A wooden wall is built around this town, which is about 10 meters high. No towers or other fortifications are built on this wall, because the watchers and lookouts are primarily on the stairs/pathway that lead upwards to the palace.
+Endarassil is a city-fortress built around a karst in the Mountains of Ranûdel. It is the capital city of the kingdom of the same name (Kingdom of Ranûdel). Its main defining feature is a tall, standalone karst in the center with an elaborate hall perched on top. Surrounding the city is a sturdy but towerless wooden wall.
 
-The palace is the top of the karst. The main building is a circular wooden structure about 25 meters in diameter, with a thatched conic roof. This building is three floors high. The first floor is the throne room and two long tables, that can fit 12 people each (6 on each side). The throne also has a smaller table for the king when there is a feast/banquet. The two long tables are at the side, so there is a direct path to the throne. The throne is set on an elevated platform with stairs that lead up to it. To the right side is a staircase that is built against the wall. On the second floor are the rooms for the king and his family, and on the third floor is storage space.
+At city level, there are bustling markets and businesses, as well as residential homes. Houses there are usually single-floored, while those closer to the karst can be built with two or three floors. Some houses are built on the way up to the karst, which are usually the houses of nobles.
 
-There is wooden railing around the top of the karst, to prevent people from falling off.
-A banquet can hold at most 24 people, excluding the king and queen.
-
-Two smaller circular buildings are built on the left and right side of the main building. They have two floors, with a conical thatched roof like the main building. The first floor of the one on the right is the kitchens and storage, while the second floor are space for servants. There are ten servants who live here. The building on the left are for palace guards, archers (they are also the lookouts), and guests.
-
-On the bottom, houses are usually single floored. Some houses may be two floored, but no more than that. Some houses are built on the way up to the karst, which are usually the houses of nobles.
+The middle karst, called the Palace Stone, is extremely tall, being around 70 metres in height. There is a staircase built from the ground to the top, patrolled by archers. On the top is a grand hall and a few houses, which is where the elven palace is, and low walls to prevent people from falling down.

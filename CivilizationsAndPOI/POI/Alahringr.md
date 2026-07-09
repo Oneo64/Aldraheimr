@@ -3,7 +3,7 @@
 	<tr> <th colspan=2>Álahringr</th> </tr>
 	<tr> <td>Region</td> <td>Oddarsveldi</td> </tr>
 	<tr> <td>Population</td> <td>~300 people</td> </tr>
-	<tr> <td>Jarl</td> <td>Hákon of Kjartskjofn</td> </tr>
+	<tr> <td>Jarl</td> <td>Hákon of Hersgjöf</td> </tr>
 	<tr> <td>Hersir</td> <td>Randúlfr</td> </tr>
 </tbody></table>
 

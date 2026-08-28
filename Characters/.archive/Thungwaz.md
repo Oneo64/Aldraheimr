@@ -17,7 +17,7 @@
 
 Þungwaz is a powerful revenant possessing three abilities, unlike the usual, who have two. It was the one that killed Yngvarr, as written in Jóki's journal. Unfortunately, Jóki didn't document how they woke the draugr.
 
-20 years after the collapse of Galabrus, Þungwaz was born in a Galabric village. At about 30 years old, he and three other nobles traveled north with a group of men but were killed in battle by bandits. During the struggle, Þungwaz was shot by an arrow. And in his weakened state, a foe approached him and tried to behead him, but couldn't fully decapitate him. Ingwaz died anyway. Later, he returned as a draugr and now resides inside its tomb.
+20 years after the collapse of Galabrus, Þungwaz was born in a Galabric village. At about 30 years old, he and three other nobles traveled north with a group of men but were killed in battle by bandits. During the struggle, Þungwaz was shot by an arrow. And in his weakened state, a foe approached him and tried to behead him, but couldn't fully decapitate him. Þungwaz died anyway. Later, he returned as a draugr and now resides inside its tomb.
 
 ## Appearance
 Þungwaz is a large undead warrior. It has an impressive height of 6'3", towering over most people. It has blueish-grey skin, and completely white eyes, and its hair is sparse and gray. It has a deep, open cut across the right side of its neck, which is a sign of a failed beheading.

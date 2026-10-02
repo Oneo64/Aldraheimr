@@ -11,6 +11,8 @@ Magic in this world is soft, and there are six types of it. There are four folk 
 
 ---
 
+**Aldraheimr 2nd Edition (NEW):** https://github.com/Oneo64/Aldraheimr2ndEdition
+
 **Earth version:** https://github.com/Oneo64/TheMirkOfAgmundr
 
 **(REVIVED ALDPOR VERSION!) Aldpor version:** https://github.com/Oneo64/Aldpor<br>*Notice: This version is actually a remake of the first version of all my fantasy worlds, with better balancing, storytelling, etc.*
